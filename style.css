@@ -1,0 +1,159 @@
+* {
+  font-family: "Montserrat";
+}
+.header {
+  padding-top: 20px;
+  padding-left: 60px;
+  background-color: #560f74;
+  height: 570px;
+  border-radius: 1.2rem 1.2rem 0rem 0rem;
+}
+.navbar {
+  margin-left: 20px;
+  margin-top: 30px;
+}
+.main-logo {
+  height: 40px;
+  color: white;
+}
+.list {
+  float: right;
+  margin-right: 220px;
+}
+.list-item {
+  display: inline;
+  padding: 10px 20px;
+  color: white;
+}
+.active {
+  color: #12b0e8;
+  border-bottom: 1px solid rgb(189, 185, 185);
+}
+
+.btn-main {
+  position: absolute;
+  margin-right: -20px;
+  margin-left: 80%;
+  float: right;
+  margin-top: -39px;
+  padding: 10px;
+  width: 100px;
+  border: 0.5px solid #12b0e8;
+  background-color: #12b0e8;
+  color: white;
+}
+.header-body {
+  display: flex;
+  flex-direction: row;
+  margin-top: 100px;
+}
+.img1 {
+  margin-left: 600px;
+  margin-top: -350px;
+}
+.info1 {
+  margin-top: -35px;
+  margin-left: 70px;
+  color: rgb(240, 237, 237);
+}
+.info1 h2 {
+  word-spacing: 2px;
+  font-size: 50px;
+  letter-spacing: 1px;
+}
+.info1 p {
+  letter-spacing: 1px;
+  word-spacing: 3px;
+  margin-top: -10px;
+  font-size: 13px;
+}
+
+.main2 {
+  margin-top: 40px;
+}
+.main-1 {
+  display: flex;
+  flex-direction: row;
+}
+.main-1-part-1 {
+  margin-left: 80px;
+}
+.main-2-part-2 {
+  padding-left: 170px;
+}
+.main-2-part-2 h3 {
+  font-size: 25px;
+}
+.m2parts {
+  padding-top: 3px;
+  padding-left: 35px;
+  margin-bottom: 30px;
+}
+.m2parts p {
+  margin-top: -10px;
+}
+
+.main-2 {
+  margin-top: 10px;
+}
+.main-2 h2 {
+  text-align: center;
+  font-size: 30px;
+  word-spacing: 2px;
+}
+.m2 {
+  margin-left: 90px;
+  margin-top: 60px;
+  display: flex;
+  flex-direction: row;
+  height: 300px;
+}
+.m2parts {
+  padding: 5px 20px 0px 40px;
+  border: 1px solid #edebeb;
+  margin: 30px;
+  border-radius: 1rem;
+  box-shadow: 5px 5px 5px rgb(168, 167, 167);
+}
+
+.small-icon {
+  margin-top: 25px;
+  margin-left: 25px;
+}
+#arrow1 {
+  color: #e07c24;
+}
+#arrow2 {
+  color: #4dd637;
+}
+
+#arrow3 {
+  color: #23c4ed;
+}
+
+.m2parts h3 {
+  margin-top: 30px;
+  text-align: center;
+}
+.m2parts p {
+  text-align: center;
+}
+
+.darkbg {
+  color: white;
+
+  background: linear-gradient(
+    to bottom,
+    white 0%,
+    white 50%,
+    #560f74 50%,
+    #560f74 100%
+  );
+}
+
+.darkbg h3 {
+  text-align: center;
+}
+.darkbg p {
+  text-align: center;
+}
