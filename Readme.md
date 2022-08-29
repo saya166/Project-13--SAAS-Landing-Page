@@ -2,14 +2,15 @@
 
 - ## _`: By Sayali Patil`_
 
-**[Click here](https://saas-landing-page-saya.netlify.app/) for the live demo of the webspage on [Netlify](https://www.netlify.com/).**
+**[Click here](https://saas-landing-page-saya.netlify.app/) for the live demo of the webpage on [Netlify](https://www.netlify.com/).**
 
 # Key Features
 
-**SAAS Landing Page** is The sample webpage that is Designed with HTML5 and CSS-3.
+**SAAS Landing Page** is The sample Responsive webpage that is Designed with HTML5 and CSS-3.
 
 - ### Font Used -
   - Montserrat
+- `Media Queries` are used.
 - Icons are used from _canva_.
 - The website is hosted on _Netlify_.
 - `box-shadow` property used to give shadow to the respective borders.
